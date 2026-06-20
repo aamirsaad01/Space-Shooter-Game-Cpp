@@ -1,0 +1,14 @@
+taha	400
+saad	250
+rAZA	170
+wahid	170
+karan	170
+ALI	130
+ABD	130
+khan2	130
+pager	130
+pank	130
+quad	30
+khan	30
+khan'	20
+moka	0
